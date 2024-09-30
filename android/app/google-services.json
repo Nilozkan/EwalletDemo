@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "735331181585",
+    "firebase_url": "https://ewalletdemo-14129-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ewalletdemo-14129",
+    "storage_bucket": "ewalletdemo-14129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735331181585:android:85c1e88ac9656dac2dfdb0",
+        "android_client_info": {
+          "package_name": "com.example.ewalletdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXeXq5DymJZ3cs_5fWclgCyZF86fxQ80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
